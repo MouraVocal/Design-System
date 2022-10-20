@@ -1,0 +1,29 @@
+{
+  "name": "@moura-vocal/react",
+  "version": "1.0.0",
+  "description": "",
+  "module": "./dist/index.mjs",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
+    "dev": "tsup src/index.tsx --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "keywords": [],
+  "author": "mouravocal",
+  "license": "ISC",
+  "devDependencies": {
+    "@moura-vocal/eslint-config": "*",
+    "@moura-vocal/tokens": "*",
+    "@moura-vocal/ts-config": "*",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "react": "^18.2.0",
+    "tsup": "^6.3.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@stitches/react": "^1.2.8"
+  }
+}

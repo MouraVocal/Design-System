@@ -1,0 +1,22 @@
+{
+  "name": "@moura-vocal/tokens",
+  "version": "1.0.0",
+  "description": "",
+  "module": "./dist/index.mjs",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "keywords": [],
+  "author": "mouravocal",
+  "license": "ISC",
+  "devDependencies": {
+    "@moura-vocal/ts-config": "*",
+    "@moura-vocal/eslint-config": "*",
+    "tsup": "^6.3.0",
+    "typescript": "^4.8.4"
+  }
+}

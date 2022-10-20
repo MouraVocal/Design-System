@@ -1,0 +1,4 @@
+{
+  "extends": "@moura-vocal/ts-config/base.json",
+  "include": ["src"]
+}
