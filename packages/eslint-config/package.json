@@ -1,5 +1,5 @@
 {
-  "name": "@moura-vocal/eslint-config",
+  "name": "@mouravocal/eslint-config",
   "main": "index.js",
   "private": true,
   "license": "ISC",

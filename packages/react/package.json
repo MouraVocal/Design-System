@@ -1,5 +1,5 @@
 {
-  "name": "@moura-vocal/react",
+  "name": "@mouravocal/react",
   "version": "1.0.0",
   "description": "",
   "module": "./dist/index.mjs",
