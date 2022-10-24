@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/mouravocal.png',
     alt: 'Diego Moura',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<IAvatarProps>
 
 export const Primary: StoryObj<IAvatarProps> = {}
