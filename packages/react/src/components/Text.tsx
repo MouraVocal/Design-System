@@ -31,3 +31,5 @@ export const Text = styled('p', {
 })
 
 export interface ITextProps extends ComponentProps<typeof Text> {}
+
+Text.displayName = 'Text'
