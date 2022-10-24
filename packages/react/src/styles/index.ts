@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@moura-vocal/tokens'
+} from '@mouravocal/tokens'
 
 export const {
   styled,

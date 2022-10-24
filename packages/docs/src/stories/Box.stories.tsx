@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Box, IBoxProps, Text } from '@moura-vocal/react'
+import { Box, IBoxProps, Text } from '@mouravocal/react'
 
 export default {
   title: 'Surfaces/Box',

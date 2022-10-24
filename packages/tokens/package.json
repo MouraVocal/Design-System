@@ -14,8 +14,8 @@
   "author": "mouravocal",
   "license": "ISC",
   "devDependencies": {
-    "@moura-vocal/ts-config": "*",
-    "@moura-vocal/eslint-config": "*",
+    "@mouravocal/ts-config": "*",
+    "@mouravocal/eslint-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }

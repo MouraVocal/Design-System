@@ -1,4 +1,4 @@
-import { Text, ITextProps } from '@moura-vocal/react'
+import { Text, ITextProps } from '@mouravocal/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

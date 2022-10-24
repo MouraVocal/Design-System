@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { MultiStep, IMultiStepProps, Box } from '@moura-vocal/react'
+import { MultiStep, IMultiStepProps, Box } from '@mouravocal/react'
 
 export default {
   title: 'Form/Multi Step',

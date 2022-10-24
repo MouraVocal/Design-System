@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { TextArea, ITextAreaProps, Box, Text } from '@moura-vocal/react'
+import { TextArea, ITextAreaProps, Box, Text } from '@mouravocal/react'
 
 export default {
   title: 'Form/Text Area',

@@ -1,4 +1,4 @@
-import { colors } from '@moura-vocal/tokens'
+import { colors } from '@mouravocal/tokens'
 import { getContrast } from 'polished'
 
 export const ColorsGrid = () => {

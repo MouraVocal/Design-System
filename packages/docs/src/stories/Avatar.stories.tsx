@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Avatar, IAvatarProps } from '@moura-vocal/react'
+import { Avatar, IAvatarProps } from '@mouravocal/react'
 
 export default {
   title: 'Data Display/Avatar',

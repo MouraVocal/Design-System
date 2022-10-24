@@ -1,4 +1,4 @@
 {
-  "extends": "@moura-vocal/ts-config/react.json",
+  "extends": "@mouravocal/ts-config/react.json",
   "include": ["src"]
 }

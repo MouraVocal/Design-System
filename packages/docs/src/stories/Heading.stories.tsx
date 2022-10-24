@@ -1,4 +1,4 @@
-import { Heading, IHeadingProps } from '@moura-vocal/react'
+import { Heading, IHeadingProps } from '@mouravocal/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

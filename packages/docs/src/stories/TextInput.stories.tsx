@@ -1,4 +1,4 @@
-import { Box, ITextInputProps, TextInput, Text } from '@moura-vocal/react'
+import { Box, ITextInputProps, TextInput, Text } from '@mouravocal/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

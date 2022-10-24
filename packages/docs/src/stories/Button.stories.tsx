@@ -1,4 +1,4 @@
-import { Button, IButtonProps } from '@moura-vocal/react'
+import { Button, IButtonProps } from '@mouravocal/react'
 import { Meta, StoryObj } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 
