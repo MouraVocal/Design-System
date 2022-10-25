@@ -1,0 +1,2 @@
+import{A as t}from"./index.e53fc2f7.js";import"./index.44811f15.js";import"./iframe.dcace21a.js";import"./index.d22516d2.js";import"./jsx-runtime.83a9f787.js";const c={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/mouravocal.png",alt:"Diego Moura"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.52c646cf.js.map
