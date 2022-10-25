@@ -1,5 +1,6 @@
 {
   "name": "@mouravocal/eslint-config",
+  "version": "1.1.0",
   "main": "index.js",
   "private": true,
   "license": "ISC",
